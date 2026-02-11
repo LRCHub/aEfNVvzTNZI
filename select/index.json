@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ぶっ生き返す",
+  "base_artist": "夜猫族",
+  "createdAt": "2026-02-11T03:44:31.395913Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bu-ikikaesu!! [ぶっ生き返す!!]",
+      "artist": "Maximum the Hormone",
+      "has_synced": false,
+      "path": "select/01_Bu-ikikaesu!!_[ぶっ生き返す!!]_Maximum_the_Hormone.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぶっ生き返す (feat. XakiMichele, tip jam & Tade Dust)",
+      "artist": "夜猫族",
+      "has_synced": false,
+      "path": "select/pl_01_ぶっ生き返す_(feat._XakiMichele,_tip_jam_&_Tade_Dust)_夜猫族.txt"
+    }
+  ]
+}
